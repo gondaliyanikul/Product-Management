@@ -1,0 +1,42 @@
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\bin\Debug\DbTest.exe.config
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\bin\Debug\DbTest.exe
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\bin\Debug\DbTest.pdb
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.Properties.Resources.resources
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.exe
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.pdb
+C:\Users\a\Desktop\Nikul\C Sharp\DbTest\DbTest\obj\Debug\DbTest.Form1.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\bin\Debug\DbTest.exe.config
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\bin\Debug\DbTest.exe
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\bin\Debug\DbTest.pdb
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.csproj.AssemblyReference.cache
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.csproj.SuggestedBindingRedirects.cache
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Form1.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Properties.Resources.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.csproj.GenerateResource.cache
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.csproj.CoreCompileInputs.cache
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.exe
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.pdb
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Login.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.CreateCompany.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.CreateAdmin.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.SplashScreen.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.CreateUser.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.UserDashboard.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.AdminDashboard.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.UserManage.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\bin\Debug\Product_Management.accdb
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.AddProduct.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.ProductManage.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Setting.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Vendors.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.VendorManage.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.StockManage.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.SearchProducts.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.UnpaindOrder.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.CompareSell.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.SellStock.resources
+E:\BCA SEM - 5 PROJECT\DbTest\DbTest\obj\Debug\DbTest.Purchase.resources
